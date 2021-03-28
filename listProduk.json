@@ -1,0 +1,87 @@
+{
+    "barang": [
+      {
+        "userId": 1,
+        "id": 1,
+        "nama": "ASUS ROG ZEPHYRUS DUO GX551QR-R937D6T",
+        "image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/3/5/ef617204-2e7e-4ec0-b05a-6ecb0085bc9a.jpg.webp?ect=4g",
+        "harga": 49999000,
+        "stok": 6
+      },
+      {
+        "userId": 1,
+        "id": 2,
+        "nama": "ACER PREDATOR NITRO 5",
+        "image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/2/2/4873b9cc-cdc7-430b-95b0-09f95208eb20.png.webp?ect=4g",
+        "harga": 14650000,
+        "stok": 18
+      },
+      {
+        "userId": 1,
+        "id": 3,
+        "nama": "Lenovo Legion 7i 15",
+        "image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/1/11/2b2c1350-00eb-4d1c-a98d-42c269e0fd4a.jpg.webp?ect=4g",
+        "harga": 27699000,
+        "stok": 2
+      },
+      {
+        "userId": 1,
+        "id": 4,
+        "nama": "MSI GF63 9SCXR",
+        "image": "https://images.tokopedia.net/img/cache/500-square/product-1/2020/8/13/28197332/28197332_2f61da87-f7ce-4ac8-ab70-08ad8931fb1e_800_800.webp?ect=4g",
+        "harga": 11999000,
+        "stok": 4
+      },
+      {
+        "userId": 1,
+        "id": 5,
+        "nama": "HP Pavilion Gaming 15 ec1077AX",
+        "image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/1/13/acb53ffa-65be-41fc-98a6-375658ff2daa.jpg.webp?ect=4g",
+        "harga": 12457000,
+        "stok": 7
+      },
+      {
+        "userId": 1,
+        "id": 6,
+        "nama": "Lenovo Ideapad Gaming 3 54ID",
+        "image": "https://images.tokopedia.net/img/cache/500-square/attachment/2021/3/22/65580410/65580410_80cad2d3-9947-4f7b-baec-cff9760217b4.jpg.webp?ect=4g",
+        "harga": 11799000,
+        "stok": 5
+      },
+      {
+        "userId": 1,
+        "id": 7,
+        "nama": "ASUS TUF Gaming A15 FX506II",
+        "image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/11/20/e8dcd8f9-12ad-4f72-af77-2f798a2fa61a.jpg.webp?ect=4g",
+        "harga": 16799000,
+        "stok": 2
+      },
+      {
+        "userId": 1,
+        "id": 8,
+        "nama": "ASUS ROG Strix G G512LU",
+        "image": "https://images.tokopedia.net/img/cache/500-square/product-1/2020/7/29/27588935/27588935_323e4d5c-07c8-4dbb-8226-15da2c8d1ada_497_497.webp?ect=4g",
+        "harga": 20999000,
+        "stok": 3
+      },
+      {
+        "userId": 1,
+        "id": 9,
+        "nama": "Dell Alienware m15 R3",
+        "image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/9/22/79d29fa2-9644-4999-828f-4dd5d9948361.jpg.webp?ect=4g",
+        "harga": 32499000,
+        "stok": 8
+      },
+      {
+        "userId": 1,
+        "id": 10,
+        "nama": "Acer Predator Nitro 7 AN715-51-74NA",
+        "image": "https://images.tokopedia.net/img/cache/500-square/attachment/2021/3/24/65580410/65580410_a77cd036-13d1-4b4d-9134-2ca7b26d5183.jpg.webp?ect=4g",
+        "harga": 20499000,
+        "stok": 4
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }

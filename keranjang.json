@@ -1,0 +1,87 @@
+{
+  "cart": [
+    {
+      "userId": 1,
+      "id": 1616931467672,
+      "nama": "ASUS ROG ZEPHYRUS DUO GX551QR-R937D6T",
+      "harga": 49999000,
+      "total_qty": 1,
+      "total_harga": 49999000
+    },
+    {
+      "userId": 10,
+      "id": 1616940957671,
+      "nama": "Acer Predator Nitro 7 AN715-51-74NA",
+      "harga": 20499000,
+      "total_qty": 1,
+      "total_harga": 20499000
+    },
+    {
+      "userId": 9,
+      "id": 1616940956819,
+      "nama": "Dell Alienware m15 R3",
+      "harga": 32499000,
+      "total_qty": 1,
+      "total_harga": 32499000
+    },
+    {
+      "userId": 8,
+      "id": 1616940955949,
+      "nama": "ASUS ROG Strix G G512LU",
+      "harga": 20999000,
+      "total_qty": 1,
+      "total_harga": 20999000
+    },
+    {
+      "userId": 7,
+      "id": 1616940955092,
+      "nama": "ASUS TUF Gaming A15 FX506II",
+      "harga": 16799000,
+      "total_qty": 1,
+      "total_harga": 16799000
+    },
+    {
+      "userId": 6,
+      "id": 1616940954548,
+      "nama": "Lenovo Ideapad Gaming 3 54ID",
+      "harga": 11799000,
+      "total_qty": 1,
+      "total_harga": 11799000
+    },
+    {
+      "userId": 5,
+      "id": 1616940953600,
+      "nama": "HP Pavilion Gaming 15 ec1077AX",
+      "harga": 12457000,
+      "total_qty": 1,
+      "total_harga": 12457000
+    },
+    {
+      "userId": 4,
+      "id": 1616940952164,
+      "nama": "MSI GF63 9SCXR",
+      "harga": 11999000,
+      "total_qty": 1,
+      "total_harga": 11999000
+    },
+    {
+      "userId": 3,
+      "id": 1616940951040,
+      "nama": "Lenovo Legion 7i 15",
+      "harga": 27699000,
+      "total_qty": 1,
+      "total_harga": 27699000
+    },
+    {
+      "userId": 2,
+      "id": 1616940949554,
+      "nama": "ACER PREDATOR NITRO 5",
+      "harga": 14650000,
+      "total_qty": 1,
+      "total_harga": 14650000
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
